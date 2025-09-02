@@ -1,0 +1,27 @@
+body{
+  background: url(/IMAGES/red\ inistic\ logo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:rgb(21, 0, 255);
+  background-position-y: center;
+  text-align: center;
+  line-height:normal;
+}
+
+h1,h2,p{
+    margin-top: 0%;
+    padding-top: 0;
+}
+
+.vision{
+    font-size:xx-large;
+}
+
+.vision-info{
+    font-size: x-large;
+    font-weight:800;
+}
+.vision-detail{
+    font-weight: 700;
+    font-size:20px;
+}
